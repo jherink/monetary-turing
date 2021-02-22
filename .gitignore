@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/MonetaryTuring/obj
+/src/MonetaryTuring/bin/Debug/netcoreapp3.1
+/src/.vs/monetary-turing/v16
+/.vs
