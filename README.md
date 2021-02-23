@@ -2,4 +2,4 @@
 Small class for monetary parsing
 
 
-![Turing Machine]('Monetary-Turing-Machine.jpg')
+![Turing Machine]('https://github.com/jherink/monetary-turing/blob/main/img/Monetary-Turing-Machine.jpg')
